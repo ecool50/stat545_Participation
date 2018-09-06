@@ -1,2 +1,2 @@
-# stat545_md_explorer
+# stat 545 Github exploration
 Repository for exploring version control and markdown
