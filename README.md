@@ -1,2 +1,2 @@
-# stat 545 Github exploration
-Repository for exploring version control and markdown
+# stat 545 Github Participation
+Repository for participations
